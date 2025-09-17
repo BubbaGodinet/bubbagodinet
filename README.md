@@ -5,12 +5,12 @@
 
 <!-- Quick Intro -->
 <p align="center">
-  <b>Lead Front-End @ Vasion</b> • Building <b>Tether</b> (AI photo books & memory vault) • Hybrid athlete & anime nerd 🎌🏋️‍♂️<br/>
+  <b>Lead Front-End @ Vasion</b> • Hybrid athlete & anime nerd 🎌🏋️‍♂️<br/>
   Lehi, UT • JavaScript/TypeScript • Next.js • GSAP • Storyblok • Tailwind • Node
 </p>
 
 <p align="center">
-  <a href="mailto:godinetvn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40yourdomain.com-0b7285?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:godinetvn@gmail.com"></a>
   <a href="https://www.linkedin.com/bubba-godinet"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://thedevstudio.co"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bubbagodinet&style=for-the-badge&color=6b21a8">
