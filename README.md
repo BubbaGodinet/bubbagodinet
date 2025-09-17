@@ -10,18 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:you@yourdomain.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40yourdomain.com-0b7285?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:godinetvn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40yourdomain.com-0b7285?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/bubba-godinet"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://thedevstudio.co"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<your-username>&style=for-the-badge&color=6b21a8">
 </p>
 
 ---
 
 ### 👋 About me
-- I lead frontend architecture, performance, SEO, and DX (Next.js 15, Storyblok, GSAP, Tailwind).
-- I like building delightful, animated web experiences that still crush Core Web Vitals.
-- **Currently:** shipping **Tether**—an AI-assisted photo books & memories app (AWS + Stripe).
+- I lead fullstack architecture, performance, SEO, CRO/Analytics, and DX (Next.js 15, Storyblok, GSAP, Tailwind, Styled Components).
+- I like building beautiful, animated web experiences that still crush Core Web Vitals.
 - When I’m not coding: gym sessions, anime, gaming, and family adventures.
 
 ### 🧰 Toolbox
@@ -42,12 +41,9 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-7c3aed?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
 
 ### 🚀 Featured projects
-> Swap in your actual repos. These preview cards auto-theme and don’t require any actions.
 
 <p align="left">
   <a href="https://github.com/<your-username>/tether">
