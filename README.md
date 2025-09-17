@@ -1,17 +1,77 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bubba%20Godinet&fontAlignY=40&desc=Lead%20Frontend%20Engineer%20•%20Next.js%20%7C%20GSAP%20%7C%20Storyblok&descAlignY=65&color=0:0f172a,100:312e81&fontColor=ffffff&animation=fadeIn" alt="Bubba Godinet header" />
+</p>
 
-<!--
-**BubbaGodinet/bubbagodinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Quick Intro -->
+<p align="center">
+  <b>Lead Front-End @ Vasion</b> • Building <b>Tether</b> (AI photo books & memory vault) • Hybrid athlete & anime nerd 🎌🏋️‍♂️<br/>
+  Lehi, UT • JavaScript/TypeScript • Next.js • GSAP • Storyblok • Tailwind • Node
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:you@yourdomain.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40yourdomain.com-0b7285?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<your-username>&style=for-the-badge&color=6b21a8">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 👋 About me
+- I lead frontend architecture, performance, SEO, and DX (Next.js 15, Storyblok, GSAP, Tailwind).
+- I like building delightful, animated web experiences that still crush Core Web Vitals.
+- **Currently:** shipping **Tether**—an AI-assisted photo books & memories app (AWS + Stripe).
+- When I’m not coding: gym sessions, anime, gaming, and family adventures.
+
+### 🧰 Toolbox
+<p>
+  <!-- Core -->
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-0d9488?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0f766e?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <!-- Styling / Anim -->
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-db2777?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-22c55e?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <!-- CMS / Data -->
+  <img alt="Storyblok" src="https://img.shields.io/badge/Storyblok-0ea5e9?style=for-the-badge&logo=storyblok&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-bf125d?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <!-- Cloud / DX -->
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-7c3aed?style=for-the-badge&logo=jest&logoColor=white"/>
+</p>
+
+### 🚀 Featured projects
+> Swap in your actual repos. These preview cards auto-theme and don’t require any actions.
+
+<p align="left">
+  <a href="https://github.com/<your-username>/tether">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bubbagodinet&repo=tether&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/<your-username>/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bubbagodinet&repo=portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+### 📊 By the numbers (auto)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bubbagodinet&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubbagodinet&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💬 Let’s build something
+- Available for collabs/consulting on **high-performance, animated marketing sites** and **DX/tooling**.
+- Ping me: **you@yourdomain.com** • **LinkedIn DM** • **Issues/Discussions** on pinned repos.
+
+<!-- Footer badges -->
+<p align="center">
+  <img alt="Made with love" src="https://img.shields.io/badge/Made%20with%20%F0%9F%92%9A%20in%20Utah-111827?style=flat-square">
+  <img alt="Focus: Frontend & DX" src="https://img.shields.io/badge/Focus-Frontend%20%26%20DX-312e81?style=flat-square">
+</p>
