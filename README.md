@@ -13,7 +13,7 @@
   <a href="mailto:godinetvn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40yourdomain.com-0b7285?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/bubba-godinet"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://thedevstudio.co"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<your-username>&style=for-the-badge&color=6b21a8">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bubbagodinet&style=for-the-badge&color=6b21a8">
 </p>
 
 ---
